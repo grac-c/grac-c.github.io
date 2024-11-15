@@ -28,6 +28,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/html/google4f5ebe191b9634ab.html</loc>
+    
+    <lastmod>2024-11-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://example.com/</loc>
