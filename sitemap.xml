@@ -128,4 +128,18 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/categories/about/</loc>
+    <lastmod>2024-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/about/import/</loc>
+    <lastmod>2024-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 </urlset>
